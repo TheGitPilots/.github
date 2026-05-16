@@ -1,2 +1,2 @@
-# .github
-About Us Repository
+# About Us
+Building projects as a team for our university and other stuff. 
