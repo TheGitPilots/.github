@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hi there 👋
+## About Us
+Building projects as a team for our university and other stuff. 
 <!--
 
 **Here are some ideas to get you started:**
